@@ -2,6 +2,7 @@
 #include "./ui_mainwindow.h"
 #include <QColorDialog>
 
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -13,10 +14,12 @@ MainWindow::MainWindow(QWidget *parent)
     update_ui();
 }
 
+
 MainWindow::~MainWindow()
 {
     delete ui;
 }
+
 
 void MainWindow::update_ui()
 {
@@ -25,6 +28,7 @@ void MainWindow::update_ui()
     this->ui->spinCount->setValue(this->ui->renderArea->getStepCount());
     this->ui->renderArea->update();
 }
+
 
 void MainWindow::on_btnAstroid_clicked()
 {

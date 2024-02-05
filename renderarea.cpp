@@ -2,7 +2,7 @@
 #include <QPainter>
 #include <QPaintEvent>
 #include <QPainterPath>
-// #include <complex>
+
 
 RenderArea::RenderArea(QWidget *parent)
     : QWidget(parent), mShape(Astroid)
@@ -233,6 +233,7 @@ QPointF RenderArea::compute_huygens (float t)
     return QPointF(x, y);
 }
 
+
 QPointF RenderArea::compute_hypo (float t)
 {
     float x = 1.5 * (2 * cos(t) + cos(2 * t));
@@ -372,6 +373,7 @@ bool RenderArea::isJuliaMember(float re, float im, float cRe, float cIm)
     return true;
 }
 
+
 void RenderArea::paintFSierpinski(QPainter &painter)
 {
     float k = mScale;
@@ -390,6 +392,7 @@ void RenderArea::paintFSierpinski(QPainter &painter)
     painter.drawLine(p2, p3);
     painter.drawLine(p3, p1);
 }
+
 
 void RenderArea::paintSierpinskiRecursively(QPainter &painter, const QPointF &p1, const QPointF &p2, const QPointF &p3, int depth)
 {
