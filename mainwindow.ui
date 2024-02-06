@@ -186,7 +186,7 @@
      <item>
       <widget class="QPushButton" name="btnLineColor">
        <property name="text">
-        <string>Line Color</string>
+        <string>Figure Color</string>
        </property>
       </widget>
      </item>

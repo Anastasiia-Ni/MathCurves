@@ -27,7 +27,7 @@ target_include_directories(Math_Curves PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})  # �
 
 target_link_libraries(Math_Curves PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 
-# Остальной код остается неизменным
+
 set_target_properties(Math_Curves PROPERTIES
     MACOSX_BUNDLE_GUI_IDENTIFIER com.example.Math_Curves
     MACOSX_BUNDLE_BUNDLE_VERSION ${PROJECT_VERSION}
