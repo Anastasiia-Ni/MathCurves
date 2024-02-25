@@ -23,7 +23,7 @@ set(PROJECT_SOURCES
 
 add_executable(Math_Curves ${PROJECT_SOURCES})
 
-target_include_directories(Math_Curves PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})  # Добавляем текущий каталог включения
+target_include_directories(Math_Curves PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})
 
 target_link_libraries(Math_Curves PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
 
