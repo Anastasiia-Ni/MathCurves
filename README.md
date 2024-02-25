@@ -40,7 +40,7 @@ or
    **Running on macOS:**
 1. Clone the repository.
    
-2. Double-click on the executable file `Math_Curves.app` located in the project folder.
+2. Double-click on the executable file `MathCurves.app` located in the project folder.
    
 3. If prompted, confirm that you want to open the application from an unidentified developer (if applicable).
    
