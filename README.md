@@ -57,7 +57,7 @@ Adjust Parameters: Use the provided spin boxes to adjust parameters such as scal
 
 Explore and Visualize: Explore different curves and fractals visually by interacting with the application. Experiment with parameter values to observe changes in the graphical representation.
 
-<video src="https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/video.mov" width=180/>
 
 ![Project video](https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/video.mov)
 
+<video src="https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/video.mov" width=180/>
