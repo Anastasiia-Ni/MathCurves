@@ -4,7 +4,7 @@
 The project "MathCurves" is a graphical application developed using C++ and Qt framework. It allows users to visualize various mathematical curves and fractals in a user-friendly interface.
 
 
-<img src="https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/img1.png" width="800">
+<img src="https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/img.png" width="800">
 
 ## Features:
 
@@ -56,3 +56,10 @@ Select a Curve or Fractal: Click on the corresponding button to select a mathema
 Adjust Parameters: Use the provided spin boxes to adjust parameters such as scale, interval length, and step count to customize the appearance of the curves.
 
 Explore and Visualize: Explore different curves and fractals visually by interacting with the application. Experiment with parameter values to observe changes in the graphical representation.
+
+<video width="640" controls>
+  <source src="https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/video.mp4" type="video/mp4">
+</video>
+
+![Project video](https://github.com/Anastasiia-Ni/MathCurves/blob/main/assets/video.mp4)
+
