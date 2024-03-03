@@ -57,19 +57,7 @@ Adjust Parameters: Use the provided spin boxes to adjust parameters such as scal
 
 Explore and Visualize: Explore different curves and fractals visually by interacting with the application. Experiment with parameter values to observe changes in the graphical representation.
 
-[![Video]()](https://vimeo.com/918951676?activityReferer=1)
-
-[![Video]()](https://player.vimeo.com/video/918951676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
+<iframe src="https://player.vimeo.com/video/918951676?h=58f85035c4" width="320" height="240" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-<video src="https://vimeo.com/918951676?activityReferer=1" width=180/>
 
-![Project video](https://vimeo.com/918951676?activityReferer=1)
-
-<video src="https://player.vimeo.com/video/918951676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width=180/>
-
-![Project video](https://player.vimeo.com/video/918951676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)
-
-https://player.vimeo.com/video/918951676?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479
-
-https://vimeo.com/918951676?activityReferer=1
